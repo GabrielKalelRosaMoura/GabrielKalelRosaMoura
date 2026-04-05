@@ -7,7 +7,7 @@
 <h2> Software Development Projects:</h2>
 
 - <b> ScreenMatch: simple simulation of a streaming platform using JAVA</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://github.com/GabrielKalelRosaMoura/Screen-Match)
 
 <h2> 🤳 Connect with me:</h2>
 
