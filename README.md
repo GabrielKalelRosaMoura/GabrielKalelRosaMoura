@@ -8,6 +8,9 @@
 
 - <b> ScreenMatch: simple simulation of a streaming platform using Java</b>
   - [Praciting OOP concepts](https://github.com/GabrielKalelRosaMoura/Screen-Match)
+ - <b> The Blue: RPG game created using Java</b>
+  - [Group project in University](https://github.com/GabrielKalelRosaMoura/RPG-Java)
+
 
 <h2> 🤳 Connect with me:</h2>
 
