@@ -7,7 +7,7 @@
 <h2> Software Development Projects:</h2>
 
 - <b> ScreenMatch: simple simulation of a streaming platform using Java</b>
-  - [Praciting OOP Concepts](https://github.com/GabrielKalelRosaMoura/Screen-Match)
+  - [Praciting OOP concepts](https://github.com/GabrielKalelRosaMoura/Screen-Match)
 
 <h2> 🤳 Connect with me:</h2>
 
