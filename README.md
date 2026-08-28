@@ -12,12 +12,13 @@ I'm also a content creator, sharing my coding passion, journey and any advice: [
 
 <h2>👨‍💻 Projects:</h2>
 
-- **Muscle Coach: AI-powered fitness coaching app**
-  - Private Repo
-- **MoneyX-Ray: AI-powered bank statement analysis**
-  - [Live demo](https://money-xray.vercel.app) · [Code](https://github.com/KalelMoura/moneyXray)
-- **The Blue: RPG game created using Java**
-  - [University Group Project](https://github.com/KalelMoura/RPG-Java)
+* **InFamily: Stock and billing management system for a small retail business**
+  * [Website](https://infamily.store) · [Code](https://github.com/KalelMoura/infamily)
+* **MoneyX-Ray: AI-powered bank statement analysis**
+  * [Live demo](https://money-xray.vercel.app) · [Code](https://github.com/KalelMoura/moneyXray)
+* **Muscle Coach: AI-powered fitness coaching app**
+  * Private Repo
+
 
 <h2>💻 Tech Stack:</h2>
 
