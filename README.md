@@ -6,7 +6,7 @@
 
 <h2>💫 About Me:</h2>
 
-I'm a software engineer interested in coding, machine learning, agentic engineering, and practical full-stack applications.
+I'm a software engineer interested in real software, machine learning and AI engineering.
 
 I'm also a content creator, sharing my coding passion, journey and any advice: [Instagram](https://www.instagram.com/gabrielrosamoura)
 
