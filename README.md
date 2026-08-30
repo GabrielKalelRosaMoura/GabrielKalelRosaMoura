@@ -16,7 +16,7 @@ I'm also a content creator, sharing my coding passion, journey and any advice: [
   * [Website](https://infamily.store) · [Code](https://github.com/KalelMoura/infamily)
 * **MoneyX-Ray: AI-powered bank statement analysis**
   * [Live demo](https://money-xray.vercel.app) · [Code](https://github.com/KalelMoura/moneyXray)
-* **Mind Muscle: fitness social media and AI-powered coaching app**
+* **Mind Muscle: Fitness social media and AI-powered coaching app**
   * Private Repo
 
 
