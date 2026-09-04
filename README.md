@@ -12,7 +12,7 @@ I'm also a content creator, sharing my coding passion, journey and any advice: [
 
 <h2>👨‍💻 Projects:</h2>
 
-* **InFamily: Stock and billing management system for a small retail business**
+* **In Family: Stock and billing management system for a small retail business**
   * [Website](https://infamily.store) · [Code](https://github.com/KalelMoura/infamily)
 * **MoneyX-Ray: AI-powered bank statement analysis**
   * [Live demo](https://money-xray.vercel.app) · [Code](https://github.com/KalelMoura/moneyXray)
